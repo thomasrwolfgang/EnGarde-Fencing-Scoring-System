@@ -1,0 +1,400 @@
+_build/nrf52832_xxaa/main.c.o: main.c \
+ /home/twolfg/BLEEnvironmentDownloads/gcc-arm-none-eabi-7-2017-q4-major/lib/gcc/arm-none-eabi/7.2.1/include/stdint.h \
+ /home/twolfg/BLEEnvironmentDownloads/gcc-arm-none-eabi-7-2017-q4-major/arm-none-eabi/include/stdint.h \
+ /home/twolfg/BLEEnvironmentDownloads/gcc-arm-none-eabi-7-2017-q4-major/arm-none-eabi/include/machine/_default_types.h \
+ /home/twolfg/BLEEnvironmentDownloads/gcc-arm-none-eabi-7-2017-q4-major/arm-none-eabi/include/sys/features.h \
+ /home/twolfg/BLEEnvironmentDownloads/gcc-arm-none-eabi-7-2017-q4-major/arm-none-eabi/include/_newlib_version.h \
+ /home/twolfg/BLEEnvironmentDownloads/gcc-arm-none-eabi-7-2017-q4-major/arm-none-eabi/include/sys/_intsup.h \
+ /home/twolfg/BLEEnvironmentDownloads/gcc-arm-none-eabi-7-2017-q4-major/arm-none-eabi/include/sys/_stdint.h \
+ /home/twolfg/BLEEnvironmentDownloads/gcc-arm-none-eabi-7-2017-q4-major/arm-none-eabi/include/string.h \
+ /home/twolfg/BLEEnvironmentDownloads/gcc-arm-none-eabi-7-2017-q4-major/arm-none-eabi/include/_ansi.h \
+ /home/twolfg/BLEEnvironmentDownloads/gcc-arm-none-eabi-7-2017-q4-major/arm-none-eabi/include/newlib.h \
+ /home/twolfg/BLEEnvironmentDownloads/gcc-arm-none-eabi-7-2017-q4-major/arm-none-eabi/include/sys/config.h \
+ /home/twolfg/BLEEnvironmentDownloads/gcc-arm-none-eabi-7-2017-q4-major/arm-none-eabi/include/machine/ieeefp.h \
+ /home/twolfg/BLEEnvironmentDownloads/gcc-arm-none-eabi-7-2017-q4-major/arm-none-eabi/include/sys/reent.h \
+ /home/twolfg/BLEEnvironmentDownloads/gcc-arm-none-eabi-7-2017-q4-major/arm-none-eabi/include/_ansi.h \
+ /home/twolfg/BLEEnvironmentDownloads/gcc-arm-none-eabi-7-2017-q4-major/lib/gcc/arm-none-eabi/7.2.1/include/stddef.h \
+ /home/twolfg/BLEEnvironmentDownloads/gcc-arm-none-eabi-7-2017-q4-major/arm-none-eabi/include/sys/_types.h \
+ /home/twolfg/BLEEnvironmentDownloads/gcc-arm-none-eabi-7-2017-q4-major/arm-none-eabi/include/machine/_types.h \
+ /home/twolfg/BLEEnvironmentDownloads/gcc-arm-none-eabi-7-2017-q4-major/arm-none-eabi/include/sys/lock.h \
+ /home/twolfg/BLEEnvironmentDownloads/gcc-arm-none-eabi-7-2017-q4-major/arm-none-eabi/include/sys/cdefs.h \
+ /home/twolfg/BLEEnvironmentDownloads/gcc-arm-none-eabi-7-2017-q4-major/arm-none-eabi/include/sys/string.h \
+ /home/twolfg/BLEEnvironmentDownloads/gcc-arm-none-eabi-7-2017-q4-major/arm-none-eabi/include/stdio.h \
+ /home/twolfg/BLEEnvironmentDownloads/gcc-arm-none-eabi-7-2017-q4-major/lib/gcc/arm-none-eabi/7.2.1/include/stdarg.h \
+ /home/twolfg/BLEEnvironmentDownloads/gcc-arm-none-eabi-7-2017-q4-major/arm-none-eabi/include/sys/types.h \
+ /home/twolfg/BLEEnvironmentDownloads/gcc-arm-none-eabi-7-2017-q4-major/arm-none-eabi/include/sys/_pthreadtypes.h \
+ /home/twolfg/BLEEnvironmentDownloads/gcc-arm-none-eabi-7-2017-q4-major/arm-none-eabi/include/machine/types.h \
+ /home/twolfg/BLEEnvironmentDownloads/gcc-arm-none-eabi-7-2017-q4-major/arm-none-eabi/include/sys/stdio.h \
+ /home/twolfg/BLEEnvironmentDownloads/gcc-arm-none-eabi-7-2017-q4-major/lib/gcc/arm-none-eabi/7.2.1/include/stdbool.h \
+ /home/twolfg/BLEEnvironmentDownloads/nRF5_SDK_15.0.0_a53641a/components/libraries/util/nordic_common.h \
+ /home/twolfg/BLEEnvironmentDownloads/nRF5_SDK_15.0.0_a53641a/modules/nrfx/mdk/nrf.h \
+ /home/twolfg/BLEEnvironmentDownloads/nRF5_SDK_15.0.0_a53641a/modules/nrfx/mdk/nrf52.h \
+ /home/twolfg/BLEEnvironmentDownloads/nRF5_SDK_15.0.0_a53641a/components/toolchain/cmsis/include/core_cm4.h \
+ /home/twolfg/BLEEnvironmentDownloads/nRF5_SDK_15.0.0_a53641a/components/toolchain/cmsis/include/core_cmInstr.h \
+ /home/twolfg/BLEEnvironmentDownloads/nRF5_SDK_15.0.0_a53641a/components/toolchain/cmsis/include/cmsis_gcc.h \
+ /home/twolfg/BLEEnvironmentDownloads/nRF5_SDK_15.0.0_a53641a/components/toolchain/cmsis/include/core_cmFunc.h \
+ /home/twolfg/BLEEnvironmentDownloads/nRF5_SDK_15.0.0_a53641a/components/toolchain/cmsis/include/core_cmSimd.h \
+ /home/twolfg/BLEEnvironmentDownloads/nRF5_SDK_15.0.0_a53641a/modules/nrfx/mdk/system_nrf52.h \
+ /home/twolfg/BLEEnvironmentDownloads/nRF5_SDK_15.0.0_a53641a/modules/nrfx/mdk/nrf52_bitfields.h \
+ /home/twolfg/BLEEnvironmentDownloads/nRF5_SDK_15.0.0_a53641a/modules/nrfx/mdk/nrf51_to_nrf52.h \
+ /home/twolfg/BLEEnvironmentDownloads/nRF5_SDK_15.0.0_a53641a/modules/nrfx/mdk/nrf52_name_change.h \
+ /home/twolfg/BLEEnvironmentDownloads/nRF5_SDK_15.0.0_a53641a/modules/nrfx/mdk/compiler_abstraction.h \
+ /home/twolfg/BLEEnvironmentDownloads/nRF5_SDK_15.0.0_a53641a/components/softdevice/s132/headers/ble_hci.h \
+ /home/twolfg/BLEEnvironmentDownloads/nRF5_SDK_15.0.0_a53641a/components/ble/common/ble_advdata.h \
+ /home/twolfg/BLEEnvironmentDownloads/nRF5_SDK_15.0.0_a53641a/components/softdevice/s132/headers/ble.h \
+ /home/twolfg/BLEEnvironmentDownloads/nRF5_SDK_15.0.0_a53641a/components/softdevice/s132/headers/nrf_svc.h \
+ /home/twolfg/BLEEnvironmentDownloads/nRF5_SDK_15.0.0_a53641a/components/softdevice/s132/headers/nrf_error.h \
+ /home/twolfg/BLEEnvironmentDownloads/nRF5_SDK_15.0.0_a53641a/components/softdevice/s132/headers/ble_err.h \
+ /home/twolfg/BLEEnvironmentDownloads/nRF5_SDK_15.0.0_a53641a/components/softdevice/s132/headers/ble_gap.h \
+ /home/twolfg/BLEEnvironmentDownloads/nRF5_SDK_15.0.0_a53641a/components/softdevice/s132/headers/ble_hci.h \
+ /home/twolfg/BLEEnvironmentDownloads/nRF5_SDK_15.0.0_a53641a/components/softdevice/s132/headers/ble_ranges.h \
+ /home/twolfg/BLEEnvironmentDownloads/nRF5_SDK_15.0.0_a53641a/components/softdevice/s132/headers/ble_types.h \
+ /home/twolfg/BLEEnvironmentDownloads/nRF5_SDK_15.0.0_a53641a/components/softdevice/s132/headers/ble_l2cap.h \
+ /home/twolfg/BLEEnvironmentDownloads/nRF5_SDK_15.0.0_a53641a/components/softdevice/s132/headers/ble_gatt.h \
+ /home/twolfg/BLEEnvironmentDownloads/nRF5_SDK_15.0.0_a53641a/components/softdevice/s132/headers/ble_gattc.h \
+ /home/twolfg/BLEEnvironmentDownloads/nRF5_SDK_15.0.0_a53641a/components/softdevice/s132/headers/ble_gatts.h \
+ /home/twolfg/BLEEnvironmentDownloads/nRF5_SDK_15.0.0_a53641a/components/libraries/util/sdk_common.h \
+ config/sdk_config.h \
+ /home/twolfg/BLEEnvironmentDownloads/nRF5_SDK_15.0.0_a53641a/components/libraries/util/nordic_common.h \
+ /home/twolfg/BLEEnvironmentDownloads/nRF5_SDK_15.0.0_a53641a/modules/nrfx/mdk/compiler_abstraction.h \
+ /home/twolfg/BLEEnvironmentDownloads/nRF5_SDK_15.0.0_a53641a/components/libraries/util/sdk_os.h \
+ /home/twolfg/BLEEnvironmentDownloads/nRF5_SDK_15.0.0_a53641a/components/libraries/util/sdk_errors.h \
+ /home/twolfg/BLEEnvironmentDownloads/nRF5_SDK_15.0.0_a53641a/components/softdevice/s132/headers/nrf_error.h \
+ /home/twolfg/BLEEnvironmentDownloads/nRF5_SDK_15.0.0_a53641a/components/libraries/util/app_util.h \
+ /home/twolfg/BLEEnvironmentDownloads/nRF5_SDK_15.0.0_a53641a/components/libraries/util/sdk_macros.h \
+ /home/twolfg/BLEEnvironmentDownloads/nRF5_SDK_15.0.0_a53641a/components/libraries/util/nrf_assert.h \
+ /home/twolfg/BLEEnvironmentDownloads/nRF5_SDK_15.0.0_a53641a/components/ble/ble_advertising/ble_advertising.h \
+ /home/twolfg/BLEEnvironmentDownloads/nRF5_SDK_15.0.0_a53641a/components/softdevice/s132/headers/ble_gattc.h \
+ /home/twolfg/BLEEnvironmentDownloads/nRF5_SDK_15.0.0_a53641a/components/ble/common/ble_conn_params.h \
+ /home/twolfg/BLEEnvironmentDownloads/nRF5_SDK_15.0.0_a53641a/components/ble/common/ble_srv_common.h \
+ /home/twolfg/BLEEnvironmentDownloads/nRF5_SDK_15.0.0_a53641a/components/softdevice/s132/headers/ble_types.h \
+ /home/twolfg/BLEEnvironmentDownloads/nRF5_SDK_15.0.0_a53641a/components/libraries/util/app_util.h \
+ /home/twolfg/BLEEnvironmentDownloads/nRF5_SDK_15.0.0_a53641a/components/softdevice/s132/headers/ble_gap.h \
+ /home/twolfg/BLEEnvironmentDownloads/nRF5_SDK_15.0.0_a53641a/components/softdevice/s132/headers/ble_gatt.h \
+ /home/twolfg/BLEEnvironmentDownloads/nRF5_SDK_15.0.0_a53641a/components/libraries/util/sdk_errors.h \
+ /home/twolfg/BLEEnvironmentDownloads/nRF5_SDK_15.0.0_a53641a/components/softdevice/common/nrf_sdh.h \
+ /home/twolfg/BLEEnvironmentDownloads/nRF5_SDK_15.0.0_a53641a/components/libraries/experimental_section_vars/nrf_section_iter.h \
+ /home/twolfg/BLEEnvironmentDownloads/nRF5_SDK_15.0.0_a53641a/components/libraries/experimental_section_vars/nrf_section.h \
+ /home/twolfg/BLEEnvironmentDownloads/nRF5_SDK_15.0.0_a53641a/components/libraries/util/nrf_assert.h \
+ /home/twolfg/BLEEnvironmentDownloads/nRF5_SDK_15.0.0_a53641a/components/softdevice/common/nrf_sdh_soc.h \
+ /home/twolfg/BLEEnvironmentDownloads/nRF5_SDK_15.0.0_a53641a/components/softdevice/s132/headers/nrf_soc.h \
+ /home/twolfg/BLEEnvironmentDownloads/nRF5_SDK_15.0.0_a53641a/components/softdevice/s132/headers/nrf_error_soc.h \
+ /home/twolfg/BLEEnvironmentDownloads/nRF5_SDK_15.0.0_a53641a/components/softdevice/common/nrf_sdh_ble.h \
+ /home/twolfg/BLEEnvironmentDownloads/nRF5_SDK_15.0.0_a53641a/components/ble/nrf_ble_gatt/nrf_ble_gatt.h \
+ /home/twolfg/BLEEnvironmentDownloads/nRF5_SDK_15.0.0_a53641a/components/ble/nrf_ble_qwr/nrf_ble_qwr.h \
+ /home/twolfg/BLEEnvironmentDownloads/nRF5_SDK_15.0.0_a53641a/components/ble/common/ble_srv_common.h \
+ /home/twolfg/BLEEnvironmentDownloads/nRF5_SDK_15.0.0_a53641a/components/libraries/timer/app_timer.h \
+ /home/twolfg/BLEEnvironmentDownloads/nRF5_SDK_15.0.0_a53641a/components/libraries/util/app_error.h \
+ /home/twolfg/BLEEnvironmentDownloads/nRF5_SDK_15.0.0_a53641a/components/libraries/util/app_error_weak.h \
+ /home/twolfg/BLEEnvironmentDownloads/nRF5_SDK_15.0.0_a53641a/components/ble/ble_services/ble_nus/ble_nus.h \
+ /home/twolfg/BLEEnvironmentDownloads/nRF5_SDK_15.0.0_a53641a/components/ble/ble_link_ctx_manager/ble_link_ctx_manager.h \
+ /home/twolfg/BLEEnvironmentDownloads/nRF5_SDK_15.0.0_a53641a/components/ble/common/ble_conn_state.h \
+ /home/twolfg/BLEEnvironmentDownloads/nRF5_SDK_15.0.0_a53641a/components/libraries/atomic/nrf_atomic.h \
+ /home/twolfg/BLEEnvironmentDownloads/nRF5_SDK_15.0.0_a53641a/components/libraries/uart/app_uart.h \
+ /home/twolfg/BLEEnvironmentDownloads/nRF5_SDK_15.0.0_a53641a/components/libraries/util/app_util_platform.h \
+ /home/twolfg/BLEEnvironmentDownloads/nRF5_SDK_15.0.0_a53641a/components/softdevice/s132/headers/nrf_nvic.h \
+ /home/twolfg/BLEEnvironmentDownloads/nRF5_SDK_15.0.0_a53641a/components/libraries/util/app_error.h \
+ /home/twolfg/BLEEnvironmentDownloads/nRF5_SDK_15.0.0_a53641a/components/libraries/bsp/bsp_btn_ble.h \
+ /home/twolfg/BLEEnvironmentDownloads/nRF5_SDK_15.0.0_a53641a/components/libraries/bsp/bsp.h \
+ /home/twolfg/BLEEnvironmentDownloads/nRF5_SDK_15.0.0_a53641a/components/boards/boards.h \
+ /home/twolfg/BLEEnvironmentDownloads/nRF5_SDK_15.0.0_a53641a/modules/nrfx/hal/nrf_gpio.h \
+ /home/twolfg/BLEEnvironmentDownloads/nRF5_SDK_15.0.0_a53641a/modules/nrfx/nrfx.h \
+ /home/twolfg/BLEEnvironmentDownloads/nRF5_SDK_15.0.0_a53641a/integration/nrfx/nrfx_config.h \
+ /home/twolfg/BLEEnvironmentDownloads/nRF5_SDK_15.0.0_a53641a/modules/nrfx/drivers/nrfx_common.h \
+ /home/twolfg/BLEEnvironmentDownloads/nRF5_SDK_15.0.0_a53641a/modules/nrfx/mdk/nrf_peripherals.h \
+ /home/twolfg/BLEEnvironmentDownloads/nRF5_SDK_15.0.0_a53641a/modules/nrfx/mdk/nrf52832_peripherals.h \
+ /home/twolfg/BLEEnvironmentDownloads/nRF5_SDK_15.0.0_a53641a/integration/nrfx/nrfx_glue.h \
+ /home/twolfg/BLEEnvironmentDownloads/nRF5_SDK_15.0.0_a53641a/integration/nrfx/legacy/apply_old_config.h \
+ /home/twolfg/BLEEnvironmentDownloads/nRF5_SDK_15.0.0_a53641a/modules/nrfx/soc/nrfx_irqs.h \
+ /home/twolfg/BLEEnvironmentDownloads/nRF5_SDK_15.0.0_a53641a/modules/nrfx/soc/nrfx_irqs_nrf52832.h \
+ /home/twolfg/BLEEnvironmentDownloads/nRF5_SDK_15.0.0_a53641a/modules/nrfx/soc/nrfx_coredep.h \
+ /home/twolfg/BLEEnvironmentDownloads/nRF5_SDK_15.0.0_a53641a/components/libraries/util/sdk_resources.h \
+ /home/twolfg/BLEEnvironmentDownloads/nRF5_SDK_15.0.0_a53641a/components/softdevice/s132/headers/nrf_sd_def.h \
+ /home/twolfg/BLEEnvironmentDownloads/nRF5_SDK_15.0.0_a53641a/modules/nrfx/drivers/nrfx_errors.h \
+ /home/twolfg/BLEEnvironmentDownloads/nRF5_SDK_15.0.0_a53641a/components/boards/pca10040.h \
+ /home/twolfg/BLEEnvironmentDownloads/nRF5_SDK_15.0.0_a53641a/components/libraries/button/app_button.h \
+ /home/twolfg/BLEEnvironmentDownloads/nRF5_SDK_15.0.0_a53641a/components/libraries/pwr_mgmt/nrf_pwr_mgmt.h \
+ ble_egs.h \
+ /home/twolfg/BLEEnvironmentDownloads/nRF5_SDK_15.0.0_a53641a/modules/nrfx/hal/nrf_uart.h \
+ /home/twolfg/BLEEnvironmentDownloads/nRF5_SDK_15.0.0_a53641a/modules/nrfx/hal/nrf_uarte.h \
+ /home/twolfg/BLEEnvironmentDownloads/nRF5_SDK_15.0.0_a53641a/components/libraries/experimental_log/nrf_log.h \
+ /home/twolfg/BLEEnvironmentDownloads/nRF5_SDK_15.0.0_a53641a/components/libraries/experimental_section_vars/nrf_section.h \
+ /home/twolfg/BLEEnvironmentDownloads/nRF5_SDK_15.0.0_a53641a/components/libraries/strerror/nrf_strerror.h \
+ /home/twolfg/BLEEnvironmentDownloads/nRF5_SDK_15.0.0_a53641a/components/libraries/experimental_log/src/nrf_log_internal.h \
+ /home/twolfg/BLEEnvironmentDownloads/nRF5_SDK_15.0.0_a53641a/components/libraries/experimental_log/nrf_log_instance.h \
+ /home/twolfg/BLEEnvironmentDownloads/nRF5_SDK_15.0.0_a53641a/components/libraries/experimental_log/nrf_log_types.h \
+ /home/twolfg/BLEEnvironmentDownloads/nRF5_SDK_15.0.0_a53641a/components/libraries/experimental_log/nrf_log_types.h \
+ /home/twolfg/BLEEnvironmentDownloads/nRF5_SDK_15.0.0_a53641a/components/libraries/experimental_log/nrf_log_ctrl.h \
+ /home/twolfg/BLEEnvironmentDownloads/nRF5_SDK_15.0.0_a53641a/components/libraries/experimental_log/src/nrf_log_ctrl_internal.h \
+ /home/twolfg/BLEEnvironmentDownloads/nRF5_SDK_15.0.0_a53641a/components/libraries/experimental_log/nrf_log_backend_interface.h \
+ /home/twolfg/BLEEnvironmentDownloads/nRF5_SDK_15.0.0_a53641a/components/libraries/experimental_memobj/nrf_memobj.h \
+ /home/twolfg/BLEEnvironmentDownloads/gcc-arm-none-eabi-7-2017-q4-major/arm-none-eabi/include/stdlib.h \
+ /home/twolfg/BLEEnvironmentDownloads/gcc-arm-none-eabi-7-2017-q4-major/arm-none-eabi/include/machine/stdlib.h \
+ /home/twolfg/BLEEnvironmentDownloads/nRF5_SDK_15.0.0_a53641a/components/libraries/balloc/nrf_balloc.h \
+ /home/twolfg/BLEEnvironmentDownloads/nRF5_SDK_15.0.0_a53641a/components/libraries/experimental_log/nrf_log_default_backends.h
+
+/home/twolfg/BLEEnvironmentDownloads/gcc-arm-none-eabi-7-2017-q4-major/lib/gcc/arm-none-eabi/7.2.1/include/stdint.h:
+
+/home/twolfg/BLEEnvironmentDownloads/gcc-arm-none-eabi-7-2017-q4-major/arm-none-eabi/include/stdint.h:
+
+/home/twolfg/BLEEnvironmentDownloads/gcc-arm-none-eabi-7-2017-q4-major/arm-none-eabi/include/machine/_default_types.h:
+
+/home/twolfg/BLEEnvironmentDownloads/gcc-arm-none-eabi-7-2017-q4-major/arm-none-eabi/include/sys/features.h:
+
+/home/twolfg/BLEEnvironmentDownloads/gcc-arm-none-eabi-7-2017-q4-major/arm-none-eabi/include/_newlib_version.h:
+
+/home/twolfg/BLEEnvironmentDownloads/gcc-arm-none-eabi-7-2017-q4-major/arm-none-eabi/include/sys/_intsup.h:
+
+/home/twolfg/BLEEnvironmentDownloads/gcc-arm-none-eabi-7-2017-q4-major/arm-none-eabi/include/sys/_stdint.h:
+
+/home/twolfg/BLEEnvironmentDownloads/gcc-arm-none-eabi-7-2017-q4-major/arm-none-eabi/include/string.h:
+
+/home/twolfg/BLEEnvironmentDownloads/gcc-arm-none-eabi-7-2017-q4-major/arm-none-eabi/include/_ansi.h:
+
+/home/twolfg/BLEEnvironmentDownloads/gcc-arm-none-eabi-7-2017-q4-major/arm-none-eabi/include/newlib.h:
+
+/home/twolfg/BLEEnvironmentDownloads/gcc-arm-none-eabi-7-2017-q4-major/arm-none-eabi/include/sys/config.h:
+
+/home/twolfg/BLEEnvironmentDownloads/gcc-arm-none-eabi-7-2017-q4-major/arm-none-eabi/include/machine/ieeefp.h:
+
+/home/twolfg/BLEEnvironmentDownloads/gcc-arm-none-eabi-7-2017-q4-major/arm-none-eabi/include/sys/reent.h:
+
+/home/twolfg/BLEEnvironmentDownloads/gcc-arm-none-eabi-7-2017-q4-major/arm-none-eabi/include/_ansi.h:
+
+/home/twolfg/BLEEnvironmentDownloads/gcc-arm-none-eabi-7-2017-q4-major/lib/gcc/arm-none-eabi/7.2.1/include/stddef.h:
+
+/home/twolfg/BLEEnvironmentDownloads/gcc-arm-none-eabi-7-2017-q4-major/arm-none-eabi/include/sys/_types.h:
+
+/home/twolfg/BLEEnvironmentDownloads/gcc-arm-none-eabi-7-2017-q4-major/arm-none-eabi/include/machine/_types.h:
+
+/home/twolfg/BLEEnvironmentDownloads/gcc-arm-none-eabi-7-2017-q4-major/arm-none-eabi/include/sys/lock.h:
+
+/home/twolfg/BLEEnvironmentDownloads/gcc-arm-none-eabi-7-2017-q4-major/arm-none-eabi/include/sys/cdefs.h:
+
+/home/twolfg/BLEEnvironmentDownloads/gcc-arm-none-eabi-7-2017-q4-major/arm-none-eabi/include/sys/string.h:
+
+/home/twolfg/BLEEnvironmentDownloads/gcc-arm-none-eabi-7-2017-q4-major/arm-none-eabi/include/stdio.h:
+
+/home/twolfg/BLEEnvironmentDownloads/gcc-arm-none-eabi-7-2017-q4-major/lib/gcc/arm-none-eabi/7.2.1/include/stdarg.h:
+
+/home/twolfg/BLEEnvironmentDownloads/gcc-arm-none-eabi-7-2017-q4-major/arm-none-eabi/include/sys/types.h:
+
+/home/twolfg/BLEEnvironmentDownloads/gcc-arm-none-eabi-7-2017-q4-major/arm-none-eabi/include/sys/_pthreadtypes.h:
+
+/home/twolfg/BLEEnvironmentDownloads/gcc-arm-none-eabi-7-2017-q4-major/arm-none-eabi/include/machine/types.h:
+
+/home/twolfg/BLEEnvironmentDownloads/gcc-arm-none-eabi-7-2017-q4-major/arm-none-eabi/include/sys/stdio.h:
+
+/home/twolfg/BLEEnvironmentDownloads/gcc-arm-none-eabi-7-2017-q4-major/lib/gcc/arm-none-eabi/7.2.1/include/stdbool.h:
+
+/home/twolfg/BLEEnvironmentDownloads/nRF5_SDK_15.0.0_a53641a/components/libraries/util/nordic_common.h:
+
+/home/twolfg/BLEEnvironmentDownloads/nRF5_SDK_15.0.0_a53641a/modules/nrfx/mdk/nrf.h:
+
+/home/twolfg/BLEEnvironmentDownloads/nRF5_SDK_15.0.0_a53641a/modules/nrfx/mdk/nrf52.h:
+
+/home/twolfg/BLEEnvironmentDownloads/nRF5_SDK_15.0.0_a53641a/components/toolchain/cmsis/include/core_cm4.h:
+
+/home/twolfg/BLEEnvironmentDownloads/nRF5_SDK_15.0.0_a53641a/components/toolchain/cmsis/include/core_cmInstr.h:
+
+/home/twolfg/BLEEnvironmentDownloads/nRF5_SDK_15.0.0_a53641a/components/toolchain/cmsis/include/cmsis_gcc.h:
+
+/home/twolfg/BLEEnvironmentDownloads/nRF5_SDK_15.0.0_a53641a/components/toolchain/cmsis/include/core_cmFunc.h:
+
+/home/twolfg/BLEEnvironmentDownloads/nRF5_SDK_15.0.0_a53641a/components/toolchain/cmsis/include/core_cmSimd.h:
+
+/home/twolfg/BLEEnvironmentDownloads/nRF5_SDK_15.0.0_a53641a/modules/nrfx/mdk/system_nrf52.h:
+
+/home/twolfg/BLEEnvironmentDownloads/nRF5_SDK_15.0.0_a53641a/modules/nrfx/mdk/nrf52_bitfields.h:
+
+/home/twolfg/BLEEnvironmentDownloads/nRF5_SDK_15.0.0_a53641a/modules/nrfx/mdk/nrf51_to_nrf52.h:
+
+/home/twolfg/BLEEnvironmentDownloads/nRF5_SDK_15.0.0_a53641a/modules/nrfx/mdk/nrf52_name_change.h:
+
+/home/twolfg/BLEEnvironmentDownloads/nRF5_SDK_15.0.0_a53641a/modules/nrfx/mdk/compiler_abstraction.h:
+
+/home/twolfg/BLEEnvironmentDownloads/nRF5_SDK_15.0.0_a53641a/components/softdevice/s132/headers/ble_hci.h:
+
+/home/twolfg/BLEEnvironmentDownloads/nRF5_SDK_15.0.0_a53641a/components/ble/common/ble_advdata.h:
+
+/home/twolfg/BLEEnvironmentDownloads/nRF5_SDK_15.0.0_a53641a/components/softdevice/s132/headers/ble.h:
+
+/home/twolfg/BLEEnvironmentDownloads/nRF5_SDK_15.0.0_a53641a/components/softdevice/s132/headers/nrf_svc.h:
+
+/home/twolfg/BLEEnvironmentDownloads/nRF5_SDK_15.0.0_a53641a/components/softdevice/s132/headers/nrf_error.h:
+
+/home/twolfg/BLEEnvironmentDownloads/nRF5_SDK_15.0.0_a53641a/components/softdevice/s132/headers/ble_err.h:
+
+/home/twolfg/BLEEnvironmentDownloads/nRF5_SDK_15.0.0_a53641a/components/softdevice/s132/headers/ble_gap.h:
+
+/home/twolfg/BLEEnvironmentDownloads/nRF5_SDK_15.0.0_a53641a/components/softdevice/s132/headers/ble_hci.h:
+
+/home/twolfg/BLEEnvironmentDownloads/nRF5_SDK_15.0.0_a53641a/components/softdevice/s132/headers/ble_ranges.h:
+
+/home/twolfg/BLEEnvironmentDownloads/nRF5_SDK_15.0.0_a53641a/components/softdevice/s132/headers/ble_types.h:
+
+/home/twolfg/BLEEnvironmentDownloads/nRF5_SDK_15.0.0_a53641a/components/softdevice/s132/headers/ble_l2cap.h:
+
+/home/twolfg/BLEEnvironmentDownloads/nRF5_SDK_15.0.0_a53641a/components/softdevice/s132/headers/ble_gatt.h:
+
+/home/twolfg/BLEEnvironmentDownloads/nRF5_SDK_15.0.0_a53641a/components/softdevice/s132/headers/ble_gattc.h:
+
+/home/twolfg/BLEEnvironmentDownloads/nRF5_SDK_15.0.0_a53641a/components/softdevice/s132/headers/ble_gatts.h:
+
+/home/twolfg/BLEEnvironmentDownloads/nRF5_SDK_15.0.0_a53641a/components/libraries/util/sdk_common.h:
+
+config/sdk_config.h:
+
+/home/twolfg/BLEEnvironmentDownloads/nRF5_SDK_15.0.0_a53641a/components/libraries/util/nordic_common.h:
+
+/home/twolfg/BLEEnvironmentDownloads/nRF5_SDK_15.0.0_a53641a/modules/nrfx/mdk/compiler_abstraction.h:
+
+/home/twolfg/BLEEnvironmentDownloads/nRF5_SDK_15.0.0_a53641a/components/libraries/util/sdk_os.h:
+
+/home/twolfg/BLEEnvironmentDownloads/nRF5_SDK_15.0.0_a53641a/components/libraries/util/sdk_errors.h:
+
+/home/twolfg/BLEEnvironmentDownloads/nRF5_SDK_15.0.0_a53641a/components/softdevice/s132/headers/nrf_error.h:
+
+/home/twolfg/BLEEnvironmentDownloads/nRF5_SDK_15.0.0_a53641a/components/libraries/util/app_util.h:
+
+/home/twolfg/BLEEnvironmentDownloads/nRF5_SDK_15.0.0_a53641a/components/libraries/util/sdk_macros.h:
+
+/home/twolfg/BLEEnvironmentDownloads/nRF5_SDK_15.0.0_a53641a/components/libraries/util/nrf_assert.h:
+
+/home/twolfg/BLEEnvironmentDownloads/nRF5_SDK_15.0.0_a53641a/components/ble/ble_advertising/ble_advertising.h:
+
+/home/twolfg/BLEEnvironmentDownloads/nRF5_SDK_15.0.0_a53641a/components/softdevice/s132/headers/ble_gattc.h:
+
+/home/twolfg/BLEEnvironmentDownloads/nRF5_SDK_15.0.0_a53641a/components/ble/common/ble_conn_params.h:
+
+/home/twolfg/BLEEnvironmentDownloads/nRF5_SDK_15.0.0_a53641a/components/ble/common/ble_srv_common.h:
+
+/home/twolfg/BLEEnvironmentDownloads/nRF5_SDK_15.0.0_a53641a/components/softdevice/s132/headers/ble_types.h:
+
+/home/twolfg/BLEEnvironmentDownloads/nRF5_SDK_15.0.0_a53641a/components/libraries/util/app_util.h:
+
+/home/twolfg/BLEEnvironmentDownloads/nRF5_SDK_15.0.0_a53641a/components/softdevice/s132/headers/ble_gap.h:
+
+/home/twolfg/BLEEnvironmentDownloads/nRF5_SDK_15.0.0_a53641a/components/softdevice/s132/headers/ble_gatt.h:
+
+/home/twolfg/BLEEnvironmentDownloads/nRF5_SDK_15.0.0_a53641a/components/libraries/util/sdk_errors.h:
+
+/home/twolfg/BLEEnvironmentDownloads/nRF5_SDK_15.0.0_a53641a/components/softdevice/common/nrf_sdh.h:
+
+/home/twolfg/BLEEnvironmentDownloads/nRF5_SDK_15.0.0_a53641a/components/libraries/experimental_section_vars/nrf_section_iter.h:
+
+/home/twolfg/BLEEnvironmentDownloads/nRF5_SDK_15.0.0_a53641a/components/libraries/experimental_section_vars/nrf_section.h:
+
+/home/twolfg/BLEEnvironmentDownloads/nRF5_SDK_15.0.0_a53641a/components/libraries/util/nrf_assert.h:
+
+/home/twolfg/BLEEnvironmentDownloads/nRF5_SDK_15.0.0_a53641a/components/softdevice/common/nrf_sdh_soc.h:
+
+/home/twolfg/BLEEnvironmentDownloads/nRF5_SDK_15.0.0_a53641a/components/softdevice/s132/headers/nrf_soc.h:
+
+/home/twolfg/BLEEnvironmentDownloads/nRF5_SDK_15.0.0_a53641a/components/softdevice/s132/headers/nrf_error_soc.h:
+
+/home/twolfg/BLEEnvironmentDownloads/nRF5_SDK_15.0.0_a53641a/components/softdevice/common/nrf_sdh_ble.h:
+
+/home/twolfg/BLEEnvironmentDownloads/nRF5_SDK_15.0.0_a53641a/components/ble/nrf_ble_gatt/nrf_ble_gatt.h:
+
+/home/twolfg/BLEEnvironmentDownloads/nRF5_SDK_15.0.0_a53641a/components/ble/nrf_ble_qwr/nrf_ble_qwr.h:
+
+/home/twolfg/BLEEnvironmentDownloads/nRF5_SDK_15.0.0_a53641a/components/ble/common/ble_srv_common.h:
+
+/home/twolfg/BLEEnvironmentDownloads/nRF5_SDK_15.0.0_a53641a/components/libraries/timer/app_timer.h:
+
+/home/twolfg/BLEEnvironmentDownloads/nRF5_SDK_15.0.0_a53641a/components/libraries/util/app_error.h:
+
+/home/twolfg/BLEEnvironmentDownloads/nRF5_SDK_15.0.0_a53641a/components/libraries/util/app_error_weak.h:
+
+/home/twolfg/BLEEnvironmentDownloads/nRF5_SDK_15.0.0_a53641a/components/ble/ble_services/ble_nus/ble_nus.h:
+
+/home/twolfg/BLEEnvironmentDownloads/nRF5_SDK_15.0.0_a53641a/components/ble/ble_link_ctx_manager/ble_link_ctx_manager.h:
+
+/home/twolfg/BLEEnvironmentDownloads/nRF5_SDK_15.0.0_a53641a/components/ble/common/ble_conn_state.h:
+
+/home/twolfg/BLEEnvironmentDownloads/nRF5_SDK_15.0.0_a53641a/components/libraries/atomic/nrf_atomic.h:
+
+/home/twolfg/BLEEnvironmentDownloads/nRF5_SDK_15.0.0_a53641a/components/libraries/uart/app_uart.h:
+
+/home/twolfg/BLEEnvironmentDownloads/nRF5_SDK_15.0.0_a53641a/components/libraries/util/app_util_platform.h:
+
+/home/twolfg/BLEEnvironmentDownloads/nRF5_SDK_15.0.0_a53641a/components/softdevice/s132/headers/nrf_nvic.h:
+
+/home/twolfg/BLEEnvironmentDownloads/nRF5_SDK_15.0.0_a53641a/components/libraries/util/app_error.h:
+
+/home/twolfg/BLEEnvironmentDownloads/nRF5_SDK_15.0.0_a53641a/components/libraries/bsp/bsp_btn_ble.h:
+
+/home/twolfg/BLEEnvironmentDownloads/nRF5_SDK_15.0.0_a53641a/components/libraries/bsp/bsp.h:
+
+/home/twolfg/BLEEnvironmentDownloads/nRF5_SDK_15.0.0_a53641a/components/boards/boards.h:
+
+/home/twolfg/BLEEnvironmentDownloads/nRF5_SDK_15.0.0_a53641a/modules/nrfx/hal/nrf_gpio.h:
+
+/home/twolfg/BLEEnvironmentDownloads/nRF5_SDK_15.0.0_a53641a/modules/nrfx/nrfx.h:
+
+/home/twolfg/BLEEnvironmentDownloads/nRF5_SDK_15.0.0_a53641a/integration/nrfx/nrfx_config.h:
+
+/home/twolfg/BLEEnvironmentDownloads/nRF5_SDK_15.0.0_a53641a/modules/nrfx/drivers/nrfx_common.h:
+
+/home/twolfg/BLEEnvironmentDownloads/nRF5_SDK_15.0.0_a53641a/modules/nrfx/mdk/nrf_peripherals.h:
+
+/home/twolfg/BLEEnvironmentDownloads/nRF5_SDK_15.0.0_a53641a/modules/nrfx/mdk/nrf52832_peripherals.h:
+
+/home/twolfg/BLEEnvironmentDownloads/nRF5_SDK_15.0.0_a53641a/integration/nrfx/nrfx_glue.h:
+
+/home/twolfg/BLEEnvironmentDownloads/nRF5_SDK_15.0.0_a53641a/integration/nrfx/legacy/apply_old_config.h:
+
+/home/twolfg/BLEEnvironmentDownloads/nRF5_SDK_15.0.0_a53641a/modules/nrfx/soc/nrfx_irqs.h:
+
+/home/twolfg/BLEEnvironmentDownloads/nRF5_SDK_15.0.0_a53641a/modules/nrfx/soc/nrfx_irqs_nrf52832.h:
+
+/home/twolfg/BLEEnvironmentDownloads/nRF5_SDK_15.0.0_a53641a/modules/nrfx/soc/nrfx_coredep.h:
+
+/home/twolfg/BLEEnvironmentDownloads/nRF5_SDK_15.0.0_a53641a/components/libraries/util/sdk_resources.h:
+
+/home/twolfg/BLEEnvironmentDownloads/nRF5_SDK_15.0.0_a53641a/components/softdevice/s132/headers/nrf_sd_def.h:
+
+/home/twolfg/BLEEnvironmentDownloads/nRF5_SDK_15.0.0_a53641a/modules/nrfx/drivers/nrfx_errors.h:
+
+/home/twolfg/BLEEnvironmentDownloads/nRF5_SDK_15.0.0_a53641a/components/boards/pca10040.h:
+
+/home/twolfg/BLEEnvironmentDownloads/nRF5_SDK_15.0.0_a53641a/components/libraries/button/app_button.h:
+
+/home/twolfg/BLEEnvironmentDownloads/nRF5_SDK_15.0.0_a53641a/components/libraries/pwr_mgmt/nrf_pwr_mgmt.h:
+
+ble_egs.h:
+
+/home/twolfg/BLEEnvironmentDownloads/nRF5_SDK_15.0.0_a53641a/modules/nrfx/hal/nrf_uart.h:
+
+/home/twolfg/BLEEnvironmentDownloads/nRF5_SDK_15.0.0_a53641a/modules/nrfx/hal/nrf_uarte.h:
+
+/home/twolfg/BLEEnvironmentDownloads/nRF5_SDK_15.0.0_a53641a/components/libraries/experimental_log/nrf_log.h:
+
+/home/twolfg/BLEEnvironmentDownloads/nRF5_SDK_15.0.0_a53641a/components/libraries/experimental_section_vars/nrf_section.h:
+
+/home/twolfg/BLEEnvironmentDownloads/nRF5_SDK_15.0.0_a53641a/components/libraries/strerror/nrf_strerror.h:
+
+/home/twolfg/BLEEnvironmentDownloads/nRF5_SDK_15.0.0_a53641a/components/libraries/experimental_log/src/nrf_log_internal.h:
+
+/home/twolfg/BLEEnvironmentDownloads/nRF5_SDK_15.0.0_a53641a/components/libraries/experimental_log/nrf_log_instance.h:
+
+/home/twolfg/BLEEnvironmentDownloads/nRF5_SDK_15.0.0_a53641a/components/libraries/experimental_log/nrf_log_types.h:
+
+/home/twolfg/BLEEnvironmentDownloads/nRF5_SDK_15.0.0_a53641a/components/libraries/experimental_log/nrf_log_types.h:
+
+/home/twolfg/BLEEnvironmentDownloads/nRF5_SDK_15.0.0_a53641a/components/libraries/experimental_log/nrf_log_ctrl.h:
+
+/home/twolfg/BLEEnvironmentDownloads/nRF5_SDK_15.0.0_a53641a/components/libraries/experimental_log/src/nrf_log_ctrl_internal.h:
+
+/home/twolfg/BLEEnvironmentDownloads/nRF5_SDK_15.0.0_a53641a/components/libraries/experimental_log/nrf_log_backend_interface.h:
+
+/home/twolfg/BLEEnvironmentDownloads/nRF5_SDK_15.0.0_a53641a/components/libraries/experimental_memobj/nrf_memobj.h:
+
+/home/twolfg/BLEEnvironmentDownloads/gcc-arm-none-eabi-7-2017-q4-major/arm-none-eabi/include/stdlib.h:
+
+/home/twolfg/BLEEnvironmentDownloads/gcc-arm-none-eabi-7-2017-q4-major/arm-none-eabi/include/machine/stdlib.h:
+
+/home/twolfg/BLEEnvironmentDownloads/nRF5_SDK_15.0.0_a53641a/components/libraries/balloc/nrf_balloc.h:
+
+/home/twolfg/BLEEnvironmentDownloads/nRF5_SDK_15.0.0_a53641a/components/libraries/experimental_log/nrf_log_default_backends.h:

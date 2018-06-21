@@ -1,0 +1,3 @@
+rm -f EnGarde_Firmware.hex
+srec_cat /home/twolfg/BLEEnvironmentDownloads/s132_nrf52_6.0.0_softdevice.hex -intel ./_build/nrf52832_xxaa.hex -intel -o EnGarde_Firmware.hex -intel --line-length=44
+echo '.hex file built'
